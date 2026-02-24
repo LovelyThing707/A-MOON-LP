@@ -30,17 +30,9 @@
     max-width: 100%;
   }
   .sm-sticky {
-    position: fixed;
-    top: 0px;
-    left: 0;
-    right: 0;
-    z-index: 999;
-    .header {
-      position: relative;
-      z-index: 99999;
-    }
+    max-width: 100%;
   }
-  .main-frame {
-    padding-top: 100px;
+  .offcanvas {
+    max-width: 100%;
   }
 }
